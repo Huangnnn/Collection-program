@@ -1,0 +1,1 @@
+"D:\Program Files\Python37\python.exe" "D:\Program Files\3D_face\v0.1.2\face_multicamera.py"
